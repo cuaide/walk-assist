@@ -1,4 +1,4 @@
-# Labeling rules (v2, Nov 8, 2026)
+# Labeling rules
 
 These rules define the v1 dataset (`ds_v4`). Three classes; there is no separate class for countdown timers.
 
